@@ -1,0 +1,2 @@
+# Prediction-of-building-energy
+The city of Seattle has a goal of becoming a carbon neutral city by 2050. The city has an open data platform and they update their information according to the amount of data that is brought in. Careful surveys were done in 2015 and 2016, however, these surveys are expensive to obtain. The objective of this project was therefore to predict CO2 emissions and total energy consumption of buildings for which they have not yet been measured.
